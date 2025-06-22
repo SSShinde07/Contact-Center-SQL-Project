@@ -30,7 +30,6 @@ This SQL analytics project analyzes a synthetic contact center operation dataset
 1. Run `contact_center_schema.sql` in MySQL Workbench to create the database and tables.
 2. Import data into the tables from CSV files inside `sample_data/` or use `LOAD DATA` statements.
 3. Run `contact_center_queries.sql` to perform the analysis and create views.
-4. (Optional) Review screenshots in `screenshots/` or generate your own query results.
 
 ## 📣 Author
 
